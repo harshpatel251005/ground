@@ -1,0 +1,112 @@
+body
+{
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wonder
+{
+    color: violet;
+    text-decoration:none;
+    font-size: 30px;
+    padding: 5px;
+    font-family: fantasy;
+}
+.for
+{
+    display: flex;
+    justify-content: flex-end; 
+}
+li
+{
+    display: inline;
+}
+.all
+{
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-end;
+}
+.close
+{
+    padding: 25px;
+    display: inline;
+    justify-content:space-around;
+    max-width: 50%;  
+    line-height: 35px;
+}
+.one
+{
+    font-size: 25px;
+    width:400px;
+}
+.two
+{
+    font-size: 25px;
+    width:400px;
+}
+.man
+{
+    display: flex;
+    width: 50%;
+    border-radius: 50%;
+    margin-top: 60px;
+}
+.photo
+{
+    max-width: 50%;
+    flex: 0 0 50%;
+    display: flex;
+    justify-content: center;
+}
+.whole
+{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    padding: 50px;   
+}
+.hey
+{
+    background-color: coral;
+    text-align: center;
+    font-size: 25px;
+    padding: 50px;
+}
+.hole
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.entire
+{
+    flex-basis: 26%;
+    padding: 40px;
+}
+.image
+{
+    text-align: center;
+    padding: 50px;
+}
+.end
+{
+    background-color: black;
+    padding: 10px;
+    color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.short
+{
+    padding-left: 50px;
+}
+.long
+{
+    padding-top: 15px;
+}
